@@ -1,6 +1,6 @@
 ## Primeiro repositório
  
-<h3 align='center'> Foi aqui o inicio de tudo </h3>
+<h3 align='center'> Foi aqui o início de tudo </h3>
 
 ## 📄 Contexto
 
